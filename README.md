@@ -1,1 +1,1 @@
-# LabMining
+# landing-page-template
