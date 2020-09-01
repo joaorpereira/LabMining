@@ -11,10 +11,6 @@
 ## How to Run this Project
 
 - git clone "https://github.com/joaorpereira/LabMining.git"
-- npm install
-- npm install styled-components
-- npm install axios
-- npm start
 
 ## Versions
 
