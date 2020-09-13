@@ -10,7 +10,7 @@
 
 ## How to Run this Project
 
-- git clone "https://github.com/joaorpereira/LabMining.git"
+- git clone https://github.com/joaorpereira/LabMining.git
 
 ## Versions
 
